@@ -1,0 +1,5 @@
+'las variables son como una caja donde guardamos informacion, esta puede ser de tipo String, numerico o Boolean'
+'string es un tipo de dato que SIEMPRE se va a encontrar entre comillas y todo lo que este dentro de estas comillas sera tratado como Texto '
+'las funciones son operaciones que queremos que el interprete realize quizas mas de una vez y con distintos atributos, los atributos se los podemos dar con variables. son los que le van a dar sentido a nuestra funcion. Return es lo que la funcion nos va a devolver una vez que termine la operacion. (nota: despues de que se ejecuta el return, la funcion se da por terminada)'
+'las declaraciones if son condicionales. Basicamente nos dicen que si la condicion se cumple nos debe devolver algo puede que solo queramos checkear una condicion, o sino podemos utiliza else if para checkear mas'
+'true o false son tipos de datos booleanos, se utilizan como el resultado de una condicion, True es igual a verdadero y false es igual a falso'
